@@ -1,10 +1,3 @@
-# LinkedList Backend (Instructor Solution)
-
-The production app of the solution code, deployed on Heroku, is available at this base-URL:
-
-`https://linkedlist-rithm.herokuapp.com/`
-
-For the frontend, you may use this version or fork/clone and run the app locally (instructions below).
 
 ## How to Install & Run
 
@@ -25,7 +18,3 @@ For the frontend, you may use this version or fork/clone and run the app locally
 1.  (Optional) Run `npm test` to run the entire test suite (make sure the server isn't running).
 
 1.  (Optional) If you want to run the server in development mode, use `npm run dev`. This will restart the server on any change. Use ctrl-c to stop the dev server.
-
-### Please let us know of any bugs and document them in the [GitHub issues tab](https://github.com/rithmschool/LinkedList/issues)! Thank you and enjoy!
-
-_Instructors: deploy using `git subtree push --prefix solution/backend heroku master`_
